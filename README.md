@@ -24,4 +24,9 @@
 ### * How to create a web UI using streamlit 
 ### * How to deploy a trained model on google colab.
 
+
+# ScreenShot of the Final UI
+[![ui](https://github.com/TeamEpicProjects/Language_Translator/blob/main/ui.png)]()
+
+
 # Thank You
