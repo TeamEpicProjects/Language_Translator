@@ -1,4 +1,4 @@
-# Hindi to English Language_Translator
+# Hindi to English Language Translator
 
 ## Team Lead : [Mr Tulasi Ram]()
 
